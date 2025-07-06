@@ -440,7 +440,7 @@
         ],
         "TEXT_LINK": [
             "#2780E6",
-            "#2780E6",
+            "#ffffff",
             "#2780E6"
         ],
         "TEXT_LINK_LOW_SATURATION": [
@@ -454,9 +454,9 @@
             "#2678d6"
         ],
         "TEXT_NORMAL": [
-            "#dcddde",
-            "#dcddde",
-            "#dcddde"
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
         ],
         "TEXT_POSITIVE": [
             "#689d6a",
